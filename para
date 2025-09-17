@@ -1,0 +1,6 @@
+This program checks if a number is a palindrome, meaning it reads the same forwards and backwards.
+You enter a number, and it shows the reversed number and the result. If the number is a palindrome,
+it gives a positive message; if not, it shows a negative message.
+The design is simple and easy to use on different devices. 
+It uses JavaScript to do the checking and update the page. 
+Overall, it helps users quickly find out if a number is a palindrome.
